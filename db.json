@@ -1,8 +1,8 @@
 {
   "posts": [
-    {
+    [
       "sensor": "led",
       "value": 0
-    }
+    ]
   ]
 }
