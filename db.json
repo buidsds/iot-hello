@@ -1,1 +1,3 @@
-[{"senso":"led","valu":"0"}]
+{
+ test: [{"senso":"led","valu":"0"}]
+}
