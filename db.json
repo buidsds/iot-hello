@@ -1,11 +1,8 @@
 {
-  "posts": [
+  "iot": [
     {
-      "id": 1,
-      "title": "hello"
+      "senso": "led",
+      "value": 0
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
