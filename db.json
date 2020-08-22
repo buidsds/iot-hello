@@ -1,8 +1,8 @@
 {
   "posts": [
     {
-      "sensor": "led",
-      "value": 1
+      "sensor": "led#3578",
+      "value": 76
     }
   ]
 }
