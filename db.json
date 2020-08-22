@@ -1,11 +1,8 @@
 {
   "posts": [
     {
-      "id": 13,
-      "title": "hello11"
+      "senso": "led3573246",
+      "value": 125
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
